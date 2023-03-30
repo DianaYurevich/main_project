@@ -1,0 +1,11 @@
+Enter system
+Start test
+Start test 1
+Current url https://www.saucedemo.com/
+input user name
+input password
+Click on login button
+Good value word
+Current url https://www.saucedemo.com/inventory.html
+Finish test
+Exit system
